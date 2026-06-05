@@ -1,0 +1,7 @@
+msfadmin
+root
+user
+benito
+messi
+rossi
+admin
